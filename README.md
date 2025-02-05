@@ -1,3 +1,3 @@
 Description:
 
-A simple API that performs CRUD operations
+A simple API that performs CRUD operations.
